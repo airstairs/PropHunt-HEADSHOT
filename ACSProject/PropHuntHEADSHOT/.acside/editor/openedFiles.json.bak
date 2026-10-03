@@ -1,0 +1,20 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/PropHuntHEADSHOT/app/src/main/assets/index.html",
+      "selection": {
+        "end": {
+          "column": 26,
+          "index": 10653,
+          "line": 379
+        },
+        "start": {
+          "column": 22,
+          "index": 10649,
+          "line": 379
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/PropHuntHEADSHOT/app/src/main/assets/index.html"
+}
