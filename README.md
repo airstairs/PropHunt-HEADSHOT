@@ -13,4 +13,9 @@
 
 pro tip: hitting a blue target during or after throw will revoke you immediately
 
-pro tip: if wasted only, no blue targets harmed, you can click flat ground and hills button still to restart without quitting the app 
+pro tip: if wasted only, no blue targets harmed, you can click flat ground and hills button still to restart without quitting the app   
+
+
+
+
+![rev](revoked.gif)  
